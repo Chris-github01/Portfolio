@@ -1,6 +1,6 @@
 # Portfolio
 
-## Who I am
+## Who I Am
 Dynamic and enthusiastic Software and Civil engineer 
 aspiring to join a highly motivated company and work as
 part of a team of professionals, seeking to deliver
@@ -14,9 +14,24 @@ civil engineering skills enables me to find innovative
 solutions to complex challenges across various fields.
 
 ## Education
-HyperionDev 2021 - 2022
+HyperionDev (2021 - 2022)
 - Software Engineering
 - Data Science
 
-University of Johannesburg 2008 - 2014
+University of Johannesburg (2008 - 2014)
 - Civil Engineering (B.Eng)
+
+## Programming Languages
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+
+## Skills
+- Software Design
+- Project Management
+- Structural Design
+- Microsoft Project
+- Strategic Planning
+
