@@ -1,6 +1,6 @@
 # Portfolio
 
-##Who I am
+## Who I am
 Dynamic and enthusiastic Software and Civil engineer 
 aspiring to join a highly motivated company and work as
 part of a team of professionals, seeking to deliver
