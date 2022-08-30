@@ -35,3 +35,12 @@ University of Johannesburg (2008 - 2014)
 - Microsoft Project
 - Strategic Planning
 
+## Work Experience
+I worked at WBHO as a civil engineer on the following
+sites:
+- 92 Rivonia
+- 140 West
+- Rosebank Towers
+- Menlyn Main Residences
+- Castle Gate Shopping Centre
+- Mount Edgecombe Industrial Park
