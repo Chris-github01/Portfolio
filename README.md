@@ -44,3 +44,10 @@ sites:
 - Menlyn Main Residences
 - Castle Gate Shopping Centre
 - Mount Edgecombe Industrial Park
+
+## Contact Details
+Phone
+- 082 466 8605
+
+Email
+- christopher.knight3@gmail.com
