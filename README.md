@@ -17,5 +17,6 @@ solutions to complex challenges across various fields.
 HyperionDev 2021 - 2022
 - Software Engineering
 - Data Science
+
 University of Johannesburg 2008 - 2014
 - Civil Engineering (B.Eng)
