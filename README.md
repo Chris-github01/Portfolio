@@ -12,3 +12,10 @@ forward to applying my software skills to grow in the
 tech industry. My unique combination of software and
 civil engineering skills enables me to find innovative
 solutions to complex challenges across various fields.
+
+## Education
+HyperionDev 2021 - 2022
+- Software Engineering
+- Data Science
+University of Johannesburg 2008 - 2014
+- Civil Engineering (B.Eng)
